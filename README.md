@@ -1,2 +1,2 @@
-# Currency-converter
-Porject : Currency Converter Using HTML, CSS &amp; JavaScript
+# Frontend Project : Currency-converter
+Project : Currency Converter Using HTML, CSS &amp; JavaScript
